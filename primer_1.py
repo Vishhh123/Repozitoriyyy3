@@ -14,3 +14,6 @@ if __name__ == "__main__":
     else:
         y = math.sin(x) - x*x
     print(f"y = {y}")
+
+
+
